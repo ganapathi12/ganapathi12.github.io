@@ -1,0 +1,7 @@
+spec:
+  name: ganapathi12.github.io
+  static_sites:
+    - git:
+        branch: main
+        repo_clone_url: https://github.com/ganapathi12/ganapathi12.github.io.git
+      name: Portfolio website
